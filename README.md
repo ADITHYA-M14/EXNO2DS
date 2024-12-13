@@ -123,6 +123,6 @@ sns.pairplot(df)
 ```
 ![Screenshot 2024-08-29 105555](https://github.com/user-attachments/assets/14e84556-7ef7-4a00-aed1-8317e70992a0)
 
-DEVELOPED BY: ADITHA M YREG NO: 24900338
+DEVELOPED BY: ADITHA M REG NO: 24900338
 # RESULT
 Hence, performing Exploratory Data Analysis on the given data set is successful.
